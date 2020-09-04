@@ -1,0 +1,13 @@
+C:\Users\Tyler Hilliard\workspace\csharp\Heist2\obj\Debug\netcoreapp3.1\Heist2.csprojAssemblyReference.cache
+C:\Users\Tyler Hilliard\workspace\csharp\Heist2\obj\Debug\netcoreapp3.1\Heist2.AssemblyInfoInputs.cache
+C:\Users\Tyler Hilliard\workspace\csharp\Heist2\obj\Debug\netcoreapp3.1\Heist2.AssemblyInfo.cs
+C:\Users\Tyler Hilliard\workspace\csharp\Heist2\obj\Debug\netcoreapp3.1\Heist2.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Hilliard\workspace\csharp\Heist2\bin\Debug\netcoreapp3.1\Heist2.exe
+C:\Users\Tyler Hilliard\workspace\csharp\Heist2\bin\Debug\netcoreapp3.1\Heist2.deps.json
+C:\Users\Tyler Hilliard\workspace\csharp\Heist2\bin\Debug\netcoreapp3.1\Heist2.runtimeconfig.json
+C:\Users\Tyler Hilliard\workspace\csharp\Heist2\bin\Debug\netcoreapp3.1\Heist2.runtimeconfig.dev.json
+C:\Users\Tyler Hilliard\workspace\csharp\Heist2\bin\Debug\netcoreapp3.1\Heist2.dll
+C:\Users\Tyler Hilliard\workspace\csharp\Heist2\bin\Debug\netcoreapp3.1\Heist2.pdb
+C:\Users\Tyler Hilliard\workspace\csharp\Heist2\obj\Debug\netcoreapp3.1\Heist2.dll
+C:\Users\Tyler Hilliard\workspace\csharp\Heist2\obj\Debug\netcoreapp3.1\Heist2.pdb
+C:\Users\Tyler Hilliard\workspace\csharp\Heist2\obj\Debug\netcoreapp3.1\Heist2.genruntimeconfig.cache
